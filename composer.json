@@ -31,7 +31,7 @@
         "ptachoire/cssembed": "1.0.*",
         "punic/punic": "^3.8.1",
         "scssphp/scssphp": "^1.13",
-        "smarty/smarty": "^4.1",
+        "smarty/smarty": "^4.5.3",
         "stefangabos/zebra_image": "^2.2",
         "symfony/console": "^4.4",
         "symfony/process": "^7.3.0",
