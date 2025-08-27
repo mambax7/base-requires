@@ -2,7 +2,7 @@
     "name": "xoops/base-requires",
     "license": "GPL-2.0-or-later",
     "type": "project",
-    "description": "Primary dependencies for XOOPS/XoopsCore",
+    "description": "Primary dependencies for XOOPS/XoopsCore26",
     "require": {
         "php": ">8.2",
         "dflydev/apache-mime-types": "1.0.*",
