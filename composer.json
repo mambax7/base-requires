@@ -15,7 +15,7 @@
         "ext-session": "*",
         "ezyang/htmlpurifier": "^4.8.0",
         "firebase/php-jwt": "^6.10.2",
-        "geekwright/assetic-fork": "*",
+        "geekwright/assetic-fork": "^1.0",
         "geekwright/po": "^2.0",
         "kint-php/kint": "^3.3",
         "league/container": "~3.4.1",
