@@ -37,7 +37,7 @@
         "symfony/process": "^7.3.0",
         "symfony/yaml": "^4.4",
         "tecnickcom/tcpdf": "6.8.*",
-        "tedivm/stash": "*",
+        "tedivm/stash": "^1.0",
         "webmozart/assert": "^1.2",
         "xoops/regdom": "^2.0",
         "wikimedia/less.php": "^2.0"
