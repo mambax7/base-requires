@@ -5,7 +5,7 @@
     "description": "Primary dependencies for XOOPS/XoopsCore (PHP 8.4+)",
     "require": {
         "php": "^8.4",
-        "ext-PDO": "*",
+        "ext-pdo": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-pcre": "*",
@@ -32,7 +32,6 @@
         "smarty/smarty": "^4.5.6",
         "stefangabos/zebra_image": "^2.2",
         "symfony/console": "^6.4|^7.2",
-        "symfony/polyfill-mbstring": "^1.31",
         "symfony/process": "^6.4|^7.2",
         "symfony/yaml": "^6.4|^7.2",
         "tecnickcom/tcpdf": "^6.10",
