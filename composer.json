@@ -16,7 +16,7 @@
         "embed/embed": "^4.4",
         "endroid/qr-code": "^6.0.9",
         "ezyang/htmlpurifier": "^4.18",
-        "firebase/php-jwt": "^6.10.2",
+        "firebase/php-jwt": "^7.0",
         "geekwright/po": "^2.0",
         "kint-php/kint": "^6.0",
         "league/container": "^4.2.3",
